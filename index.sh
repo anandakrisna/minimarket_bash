@@ -88,11 +88,11 @@ echo "NPM : 20081010022";
 echo "";
 
 echo "NAMA : Ananda Krisna ";
-echo "NPM : 200810100";
+echo "NPM : 20081010065";
 echo "";
 
 echo "NAMA : M DAniel Karim ";
-echo "NPM : 200810100";
+echo "NPM : 20081010059";
 echo "";
 
 echo "==========================================";
